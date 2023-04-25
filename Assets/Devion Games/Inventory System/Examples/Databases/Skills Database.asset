@@ -640,7 +640,7 @@ MonoBehaviour:
     from a given tree increases.
   m_Category: {fileID: 4301833095063581124}
   m_IsSellable: 1
-  m_BuyPrice: 80
+  m_BuyPrice: 10
   m_CanBuyBack: 1
   m_BuyCurrency: {fileID: -2811142919616601772, guid: 1ae57b994efcab048a1bb130d4e11d83, type: 2}
   m_SellPrice: 0

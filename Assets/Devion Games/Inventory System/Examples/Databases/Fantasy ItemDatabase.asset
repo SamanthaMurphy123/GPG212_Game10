@@ -1711,7 +1711,7 @@ MonoBehaviour:
       type: {class: CheckSkill, ns: DevionGames.InventorySystem, asm: DevionGames.InventorySystem}
       data:
         m_Type: DevionGames.InventorySystem.CheckSkill
-        m_Enabled: 1
+        m_Enabled: 0
         m_WindowName: Skills
         m_Skill: {fileID: -1079133913141893833, guid: e1f045c49e197e3439b99da9edbc5ba3, type: 2}
         m_SuccessNotification:
@@ -2817,13 +2817,11 @@ MonoBehaviour:
   m_Items:
   - {fileID: 960666660569578442}
   - {fileID: -2060425377994505070}
-  - {fileID: -4474190543486091594}
   - {fileID: 2409076057030828310}
   - {fileID: -447126039411374142}
   - {fileID: 1063046599387310152}
-  m_Amounts: 010000000100000001000000010000000100000001000000
+  m_Amounts: 0100000001000000010000000100000001000000
   m_Modifiers:
-  - modifiers: []
   - modifiers: []
   - modifiers: []
   - modifiers: []
