@@ -4,7 +4,13 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - Fire
+  - Item
+  - Resource
+  - Container
+  - CraftableItem
+  - Tool
+  - Interactable
+  - Terrain
   layers:
   - Default
   - TransparentFX
@@ -12,10 +18,10 @@ TagManager:
   - 
   - Water
   - UI
+  - 
+  - 
+  - CraftableItem
   - Player
-  - NPC
-  - 
-  - 
   - 
   - 
   - 

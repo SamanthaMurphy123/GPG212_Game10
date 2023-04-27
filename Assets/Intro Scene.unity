@@ -181,7 +181,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Start Dialogue
+  m_text: 'Start '
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -1159,7 +1159,7 @@ RectTransform:
   m_GameObject: {fileID: 1140165066}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 2.7945, y: 2.7945, z: 2.7945}
+  m_LocalScale: {x: 1.4854165, y: 1.4854165, z: 1.4854165}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 7679328}
@@ -1168,7 +1168,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 23.72992, y: 100}
+  m_AnchoredPosition: {x: 23.72992, y: -24}
   m_SizeDelta: {x: 160, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1140165068
@@ -1187,10 +1187,10 @@ MonoBehaviour:
     name: God
     sentences:
     - 'Welcome to your new life. '
-    - Here you can do anything you like!
-    - 'From collecting wood and stone, to exploring new areas! '
-    - 'But be careful! There are creatures that lurk around each area that are dangerous. '
-    - To survive, find enough resources and trade with NPCs to get a weapon.
+    - Your objective is to build the Golden Temple!
+    - Collect resources such as wood, stone and gold and craft items along the way.
+    - There are many areas for you to explore!
+    - You can even build a house! Just make sure you have a key.
     - Good Luck!
 --- !u!114 &1140165069
 MonoBehaviour:
